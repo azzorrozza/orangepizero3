@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ###############################################################################
-# OrangePi Auditor v2.0
+# OrangePi Auditor v1.1
 #
 # Auditoria completa para:
 #
